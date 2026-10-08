@@ -1,0 +1,10 @@
+.searchBox{
+    text-align:center;
+    margin-bottom: 1.5rem;
+}
+.field{
+    background-color: gray;
+    height: 2.8rem;
+    border-radius: 2px;
+    
+}
