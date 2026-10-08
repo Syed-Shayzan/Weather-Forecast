@@ -13,13 +13,13 @@ OpenWeather API (weather data provider)
 
 # 📂 Project Setup
 bash
-# Clone the repository
-git clone https://github.com/syed-shayzan/Weather-Forecast.git
-# Navigate into the project
-cd weather-forecast
-# Install dependencies
-npm install
-# Run locally
-npm run dev
-# Build for production
-npm run build
+Clone the repository
+- git clone https://github.com/syed-shayzan/Weather-Forecast.git
+Navigate into the project
+- cd weather-forecast
+Install dependencies
+- npm install
+Run locally
+- npm run dev
+Build for production
+- npm run build
