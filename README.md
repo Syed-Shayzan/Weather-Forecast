@@ -3,12 +3,16 @@ A simple React application built with Vite that fetches real‑time weather data
 
 # 🚀 Features
 Search for any city and view current weather conditions
+
 Displays temperature, humidity, feels-like, and weather icons
+
 Fast build and deployment with Vite
 
 # 🛠️ Tech Stack
 React (frontend framework)
+
 Vite (development & build tool)
+
 OpenWeather API (weather data provider)
 
 # 📂 Project Setup
